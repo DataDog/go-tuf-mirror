@@ -1,6 +1,6 @@
 module github.com/docker/go-tuf-mirror
 
-go 1.22.8
+go 1.25.7
 
 require (
 	github.com/docker/attest v0.6.8
