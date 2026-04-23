@@ -2,6 +2,8 @@ module github.com/docker/go-tuf-mirror
 
 go 1.22.8
 
+toolchain go1.26.2
+
 require (
 	github.com/docker/attest v0.6.8
 	github.com/google/go-containerregistry v0.20.2
